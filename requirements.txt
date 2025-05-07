@@ -1,0 +1,10 @@
+# basic imports for matplotlib styling and theme tests
+numpy
+notebook
+matplotlib
+seaborn
+
+# theme imports
+matplotx
+catppuccin
+mplcyberpunk

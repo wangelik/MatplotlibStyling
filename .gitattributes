@@ -1,0 +1,27 @@
+# --------- text files ---------
+*.py text eol=lf
+*.ipynb text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.csv text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# --------- binary files ---------
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.svg binary
+*.pdf binary
+*.ico binary
+
+# --------- jupyter files ---------
+*.ipynb diff=jupyter
+
+# --------- config files ---------
+*.ini text
+*.cfg text
+*.toml text
+*.env text
