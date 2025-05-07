@@ -1,7 +1,7 @@
-## Python Matplotlib Styling
+# Python Matplotlib Styling
 
-This repository contains examples of the most prominent matplotlib and seaborn plotting library themes.
-Themes are integrated either by separate python packages or as `.mplstyle` files.
+This repository contains examples of the most prominent matplotlib and seaborn plotting library themes.  
+Themes are integrated either by separate python packages or as `.mplstyle` files.  
 To visualize examples of styling and themes, two plotting utility functions are used, creating various different graphs and plot types.
 
 ### Structure
@@ -16,7 +16,7 @@ The data is structured as follows:
 
 ### Imports
 
-Check `requirements.txt` for dependencies.
+Check `requirements.txt` for dependencies.  
 To run and test the different themes that are not provided as `.mplstyle` files, we make use of the following styling packages:
 
 * `matplotx`
